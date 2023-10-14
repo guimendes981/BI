@@ -83,6 +83,27 @@ RESUMO BI
         -É um banco de dados que armazena dados históricos de uma empresa, para que possa ser feito análises e tomadas de decisões.
         -No data warehouse é onde ligamos todos os dados através de importações de dados de várias fontes.
 
+
+-ARQUITETURA DO DATAWAREHOUSE
+    -DATA SOURCE
+        -É uma fonte de dados, onde os dados são armazenados.
+        -Exemplos de data source: Banco de dados, planilhas, arquivos de texto, arquivos XML, arquivos JSON, arquivos CSV, arquivos PDF, arquivos de imagem, arquivos de áudio, arquivos de vídeo, arquivos de log, arquivos de backup, arquivos de configuração, arquivos de instalação, papeis de trabalho, etc.
+
+    -Staging Area
+        -É uma área de armazenamento temporário, onde os dados são armazenados antes de serem carregados no data warehouse.
+        
+    -DATA WAREHOUSE
+
+
+    -DATA MARTS 
+        -É um banco de dados que armazena dados de uma área específica de uma empresa, para que possa ser feito análises e tomadas de decisões.
+        -No data mart é onde ligamos todos os dados através de importações de dados de várias fontes.
+
+
+    -USERS 
+        -São os usuários que acessam os data marts para fazer análises e tomadas de decisões.
+
+
  -VANTAGENS DO BI 
   -Facilidade para gerar relatórios, gráficos, dashboards, etc.
 
@@ -111,5 +132,3 @@ Pentaho pode ser implantado em contêineres Docker para facilitar a configuraç�
 Documentação é um processo de documentar o que foi feito no BI, para que possa ser usado como referência para futuros projetos.
 A documentação pode ser feita em forma de texto, vídeo, etc.
 
-
-TESTE 2
