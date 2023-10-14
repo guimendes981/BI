@@ -1,0 +1,115 @@
+RESUMO BI
+
+-O QUE É O BI?
+ -É um processo de coleta de dados e transformação em informação, e a informação em conhecimento, para que possa ser tomada uma decisão.
+
+-Temos a facilidade para gerar relatórios, gráficos, dashboards, etc.
+
+-ETAPAS DO BI
+ -Coleta de dados
+ -Transformação de dados em informação
+ -Transformação de informação em conhecimento
+ -Tomada de decisão
+
+ -QUAL A FUNCIONALIDADE DO BI?
+  -O BI tem a funcionalidade de gerar relatórios, gráficos, dashboards, etc.
+
+
+  -MANEIRAS DE VISUALIZAR OS DADOS 
+    -Tabela
+    -Gráfico
+    -Dashboard
+
+
+-----MANEIRAS DE COLETAR OS DADOS------------
+
+-Meios eletrônicos
+ -Sistemas de informação
+ -Planilhas
+ -Banco de dados
+ -Arquivos de texto
+ -Arquivos XML
+ -Arquivos JSON
+ -Arquivos CSV
+ -Arquivos PDF
+ -Arquivos de imagem
+ -Arquivos de áudio
+ -Arquivos de vídeo
+ -Arquivos de log
+ -Arquivos de backup
+ -Arquivos de configuração
+ -Arquivos de instalação
+ -Papeis de trabalho
+
+
+
+(((((((((((((((((((CAI NA PROVA)))))))))))))))))))
+    -O QUE É OLAP?
+     -OLAP (Online Analytical Processing) é uma técnica de análise usada em Business Intelligence (BI) para explorar e analisar dados multidimensionais de forma interativa, permitindo consultas complexas e insights.
+    
+    -O QUE É OLTP?
+     -OLTP (Online Transaction Processing) é um sistema que trata de transações em tempo real em bancos de dados, otimizado para operações diárias de negócios, como inserções e atualizações de dados.
+
+    -O QUE É ETL?
+        -ETL (Extract, Transform and Load) é um processo de integração de dados que envolve a extração de dados de fontes externas, transformação para atender aos requisitos de negócios e carregamento em um sistema de destino.
+        -O ETL é usado para mover dados de um sistema para outro, geralmente de um sistema operacional para um data warehouse.
+        -O ETL é uma parte importante do processo de BI, pois ajuda a obter dados de várias fontes e transformá-los em um formato adequado para análise.
+
+
+    -O QUE É MODELAGEM DE DADOS?
+     -Modelagem de dados é o processo de criação de um modelo de dados para armazenar dados em um banco de dados.
+     -O modelo de dados é usado para representar a estrutura lógica dos dados e as relações entre eles.
+     -O modelo de dados é usado para criar o banco de dados físico.
+
+    -FAZEMOS AS CONSULTAS NO BANCO DE DADOS MySQL
+    
+
+    -TABELA
+     -É uma forma de visualizar os dados em forma de tabela, com linhas e colunas.
+    
+    -GRÁFICO
+     -É uma forma de visualizar os dados em forma de gráfico, com barras, linhas, etc.
+    
+   -DASHBOARD 
+    - É um painel de controle, onde podemos visualizar os dados de forma mais dinâmica, com gráficos, tabelas, etc.
+
+    -DATA MINING
+     -É uma forma de minerar os dados, para que possa ser feito uma análise e tomada de decisão.
+
+    -DATA MART
+        -É um banco de dados que armazena dados de uma área específica de uma empresa, para que possa ser feito análises e tomadas de decisões.
+
+    -DATA WAREHOUSE
+        -É um banco de dados que armazena dados históricos de uma empresa, para que possa ser feito análises e tomadas de decisões.
+        -No data warehouse é onde ligamos todos os dados através de importações de dados de várias fontes.
+
+ -VANTAGENS DO BI 
+  -Facilidade para gerar relatórios, gráficos, dashboards, etc.
+
+  
+-FERRAMENTAS QUE USAMOS NO BI
+
+Uso de Docker, MySQL e Pentaho no BI:
+
+----------DOCKER--------------
+Docker é uma plataforma para criar, implantar e gerenciar aplicativos em contêineres.
+Facilita o empacotamento de aplicativos e suas dependências para implantação consistente.
+No BI, Docker é usado para criar ambientes consistentes e portáteis para ferramentas e soluções de BI.
+
+----------MYSQL--------------
+MySQL é um sistema de gerenciamento de banco de dados (SGBD) de código aberto.
+É usado para armazenar e gerenciar dados em um formato estruturado.
+No BI, MySQL pode ser usado como um repositório de dados para análises e relatórios.
+
+----------PENTAHO--------------
+Pentaho é uma suíte de ferramentas de BI de código aberto que inclui recursos de ETL, relatórios, análises e mineração de dados.
+É usado para coletar, transformar e visualizar dados para análises de negócios.
+Pentaho pode ser implantado em contêineres Docker para facilitar a configuração e o gerenciamento em ambientes de BI.
+
+
+---------DOCUMENTAÇÃO EM BI--------------
+Documentação é um processo de documentar o que foi feito no BI, para que possa ser usado como referência para futuros projetos.
+A documentação pode ser feita em forma de texto, vídeo, etc.
+
+
+TESTE
