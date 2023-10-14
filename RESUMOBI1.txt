@@ -104,6 +104,23 @@ RESUMO BI
         -São os usuários que acessam os data marts para fazer análises e tomadas de decisões.
 
 
+
+
+
+--------CAMADAS DO BI---------------
+
+1)CAMADA DE FRONT-END
+   -É a camada onde podemos ver nossos resultados
+   -Aqui usamos o POWERBI
+
+2)CAMADA INTERMEDIA
+   -Essa camada irá fornecer mecanismos que são usados para acessar os dados
+
+3)CAMADA INFERIOR
+   -É a camada onde fica toda a nossa estrutura e arquitetura contendo o servidor dos dados, banco de dados, etc.
+
+
+
  -VANTAGENS DO BI 
   -Facilidade para gerar relatórios, gráficos, dashboards, etc.
 
@@ -131,4 +148,53 @@ Pentaho pode ser implantado em contêineres Docker para facilitar a configuraç�
 ---------DOCUMENTAÇÃO EM BI--------------
 Documentação é um processo de documentar o que foi feito no BI, para que possa ser usado como referência para futuros projetos.
 A documentação pode ser feita em forma de texto, vídeo, etc.
+
+
+
+
+(((((((((((((((CAI NA PROVA)))))))))))))))
+
+---------MATRIZ DIMENSÃO X INDICADOR--------------
+
+-Depois do levantamento das informações, é elaborado um documento contendo todas as informações necessárias que foram coletadas ou que sejam importantes para o fluxo
+
+-LINHAS E COLUNAS
+    -As linhas são os indicadores
+    -As colunas são as dimensões
+
+-INDICADORES
+    -São os dados que serão analisados
+    -Exemplos de indicadores: Vendas, lucro, despesas, etc.
+
+-DIMENSÕES
+    -Como iremos analisar os dados
+    -Exemplos de dimensões: Tempo, produto, região, etc.
+
+-EXEMPLO DE MATRIZ DIMENSÃO X INDICADOR
+
+    -INDICADORES
+        -Vendas
+        -Lucro
+        -Despesas
+
+    -DIMENSÕES
+        -Tempo
+        -Produto
+        -Região
+
+
+
+
+-------ENTIDADES-------------
+
+-Um objeto do mundo real que é modelado dentro de um sistema de software e é descrito por um conjunto de atributos e comportamentos é chamado de entidade.
+-Exemplos de entidades: Pessoa, carro, casa, etc.
+
+-RELACIONAMENTOS ENTRE ENTIDADES
+    -Um relacionamento é uma conexão entre entidades.
+    -Exemplos de relacionamentos: Pessoa compra carro, pessoa aluga casa, etc.
+
+-ATRIBUTOS
+    -São as características das entidades
+    -Exemplos de atributos: Nome, idade, sexo, cor, etc.
 
