@@ -217,3 +217,14 @@ A documentação pode ser feita em forma de texto, vídeo, etc.
         -TABELA FATO = VENDAS
         -TABELAS DIMENSÕES = TEMPO, PRODUTO, REGIÃO
 
+
+
+
+---DENTRO DO WORKBENCH
+    -FILE > NEW MODEL > ADD DIAGRAM
+
+--CRIAR NOVO MODELO
+    -Clicar na primeia tabelinha do lado esquerdo e arrastar para o meio da tela
+    -Clicar duas vezes na tabelinha e colocar o nome da tabela
+    -Clicar duas vezes no espaço em branco debaixo do nome da tabela e colocar o nome do atributo
+    
