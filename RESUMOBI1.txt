@@ -198,3 +198,22 @@ A documentação pode ser feita em forma de texto, vídeo, etc.
     -São as características das entidades
     -Exemplos de atributos: Nome, idade, sexo, cor, etc.
 
+
+
+
+---MODELOS DE DADOS------------
+
+-Modelo de dados é uma representação de como os dados são armazenados e acessados.
+
+-MODELO STAR SCHEMA
+    -Modelo mais simples, tem forma de estrela
+    -É composto por uma tabela fato e várias tabelas dimensões
+    -TABELA FATO = TABELA CENTRAL
+    -TABELAS DIMENSÕES = TABELAS QUE ESTÃO EM VOLTA DA TABELA CENTRAL
+    -Apenas um nivel de relacionamento com as tabelas dimensões
+    -Indicadores são armazenados na tabela fato
+    -Dimensões são armazenadas nas tabelas dimensões
+    -Exemplo de modelo star schema:
+        -TABELA FATO = VENDAS
+        -TABELAS DIMENSÕES = TEMPO, PRODUTO, REGIÃO
+
