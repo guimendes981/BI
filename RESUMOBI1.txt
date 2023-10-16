@@ -232,4 +232,6 @@ A documentação pode ser feita em forma de texto, vídeo, etc.
     -Selecionar 1 N (LINHA RETA NÃO PONTILHADA) e clicar na tabela fato e depois na tabela dimensão
 
 
+    --EXPORTACAO DE MODELOS EM SQL 
+    -Clicar em FILE > EXPORT > FORWARD ENGINEER > Selecionar onde quer salvar o arquivo > NEXT > NEXT > FINISH
     
