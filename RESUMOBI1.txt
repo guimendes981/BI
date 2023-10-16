@@ -227,4 +227,9 @@ A documentação pode ser feita em forma de texto, vídeo, etc.
     -Clicar na primeia tabelinha do lado esquerdo e arrastar para o meio da tela
     -Clicar duas vezes na tabelinha e colocar o nome da tabela
     -Clicar duas vezes no espaço em branco debaixo do nome da tabela e colocar o nome do atributo
+
+    -LIGAÇÕES EM STAR SCHEMA SÃO SEMPRE 1(FATO) PARA N (DIMENSÕES)
+    -Selecionar 1 N (LINHA RETA NÃO PONTILHADA) e clicar na tabela fato e depois na tabela dimensão
+
+
     
