@@ -21,8 +21,8 @@
 
 -----MANEIRAS DE COLETAR OS DADOS------------
 
--Meios eletrônicos
--Sistemas de informação
+*Meios eletrônicos
+*Sistemas de informação
 -Planilhas
 -Banco de dados
 -Arquivos de texto
