@@ -165,6 +165,10 @@ A documentação pode ser feita em forma de texto, vídeo, etc.
         -Produto
         -Região
 
+
+Tabela Indicador X Dimensão
+![Alt text](image-2.png)
+
 -------ENTIDADES-------------
 
 -Um objeto do mundo real que é modelado dentro de um sistema de software e é descrito por um conjunto de atributos e comportamentos é chamado de entidade.
@@ -280,6 +284,4 @@ Star Schema
 ![Alt text](image-3.png)
 
 
-Tabela Indicador X Dimensão
-![Alt text](image-2.png)
 
