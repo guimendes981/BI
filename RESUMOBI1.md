@@ -1,4 +1,4 @@
-RESUMO BI
+#RESUMO BI
 
 -O QUE É O BI?
 -É um processo de coleta de dados e transformação em informação, e a informação em conhecimento, para que possa ser tomada uma decisão.
