@@ -264,6 +264,10 @@ A documentação pode ser feita em forma de texto, vídeo, etc.
 
         O TIPO DE LIGAÇÃO ENTRE AS TABELAS DIMENSÕES E A TABELA FATO É 1 PARA N (LINHA RETA NÃO PONTILHADA)
 
+        #modelo star schema
+
+        ![Alt text](image.png)
+
 
     (((((((((CAI NA PROVA)))))))))
 
