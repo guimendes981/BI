@@ -229,8 +229,7 @@ A documentação pode ser feita em forma de texto, vídeo, etc.
             -TABELAS DIMENSÕES = TEMPO, PRODUTO, REGIÃO, PAÍS, ESTADO, CIDADE, BAIRRO, RUA, NÚMERO, CEP, ETC.
 
 
-
-    ((((((((CAI NA PROVA))))))))
+## ((((((((CAI NA PROVA))))))))
 
     -DESENHAR MODELO STAR SCHEMA NO PAPEL
      ------PASSO A PASSO PARA DESENHAR MODELO STAR SCHEMA NO PAPEL------
@@ -248,7 +247,7 @@ A documentação pode ser feita em forma de texto, vídeo, etc.
         ![Alt text](image.png)
 
 
-    (((((((((CAI NA PROVA)))))))))
+## (((((((((CAI NA PROVA)))))))))
 
     -DESENHAR TABELA INDICADOR X DIMENSÃO NO PAPEL
         ------PASSO A PASSO PARA DESENHAR TABELA INDICADOR X DIMENSÃO NO PAPEL------
@@ -261,7 +260,7 @@ A documentação pode ser feita em forma de texto, vídeo, etc.
 
 
 
-        ((CAI NA PROVA))
+ ## ((CAI NA PROVA))
         -EM QUAIS DOS CONCEITOS ABAIXO É MAIS ADEQUADO CATEGORIZAR UM DATA WAREHOUSE?
 
         A) OLTP
