@@ -112,28 +112,28 @@
     -VANTAGENS DO BI
     -Facilidade para gerar relatórios, gráficos, dashboards, etc.
 
--FERRAMENTAS QUE USAMOS NO BI
+#### -FERRAMENTAS QUE USAMOS NO BI
 
-Uso de Docker, MySQL e Pentaho no BI:
+    Uso de Docker, MySQL e Pentaho no BI:
 
-----------DOCKER--------------
-Docker é uma plataforma para criar, implantar e gerenciar aplicativos em contêineres.
-Facilita o empacotamento de aplicativos e suas dependências para implantação consistente.
-No BI, Docker é usado para criar ambientes consistentes e portáteis para ferramentas e soluções de BI.
+    ----------DOCKER--------------
+    Docker é uma plataforma para criar, implantar e gerenciar aplicativos em contêineres.
+    Facilita o empacotamento de aplicativos e suas dependências para implantação consistente.
+    No BI, Docker é usado para criar ambientes consistentes e portáteis para ferramentas e soluções de BI.
 
-----------MYSQL--------------
-MySQL é um sistema de gerenciamento de banco de dados (SGBD) de código aberto.
-É usado para armazenar e gerenciar dados em um formato estruturado.
-No BI, MySQL pode ser usado como um repositório de dados para análises e relatórios.
+    ----------MYSQL--------------
+    MySQL é um sistema de gerenciamento de banco de dados (SGBD) de código aberto.
+    É usado para armazenar e gerenciar dados em um formato estruturado.
+    No BI, MySQL pode ser usado como um repositório de dados para análises e relatórios.
 
-----------PENTAHO--------------
-Pentaho é uma suíte de ferramentas de BI de código aberto que inclui recursos de ETL, relatórios, análises e mineração de dados.
-É usado para coletar, transformar e visualizar dados para análises de negócios.
-Pentaho pode ser implantado em contêineres Docker para facilitar a configuração e o gerenciamento em ambientes de BI.
+    ----------PENTAHO--------------
+    Pentaho é uma suíte de ferramentas de BI de código aberto que inclui recursos de ETL, relatórios, análises e mineração de dados.
+    É usado para coletar, transformar e visualizar dados para análises de negócios.
+    Pentaho pode ser implantado em contêineres Docker para facilitar a configuração e o gerenciamento em ambientes de BI.
 
----------DOCUMENTAÇÃO EM BI--------------
-Documentação é um processo de documentar o que foi feito no BI, para que possa ser usado como referência para futuros projetos.
-A documentação pode ser feita em forma de texto, vídeo, etc.
+    ---------DOCUMENTAÇÃO EM BI--------------
+    Documentação é um processo de documentar o que foi feito no BI, para que possa ser usado como referência para futuros projetos.
+    A documentação pode ser feita em forma de texto, vídeo, etc.
 
 ## **(((((((((((((((CAI NA PROVA)))))))))))))))**
 
