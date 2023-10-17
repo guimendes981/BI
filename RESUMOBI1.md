@@ -242,9 +242,9 @@
 
         O TIPO DE LIGAÇÃO ENTRE AS TABELAS DIMENSÕES E A TABELA FATO É 1 PARA N (LINHA RETA NÃO PONTILHADA)
 
-        #modelo star schema
 
-        ![Alt text](image.png)
+Star schema: 
+![Alt text](image-5.png)
 
 
 ## (((((((((CAI NA PROVA)))))))))
@@ -278,10 +278,6 @@
         -TEM QUE IMPLEMENTAR COM 5 10 LINHAS
         -CONSTRUIR UM BI NO POWERBI
         -CONSTRUIR UM MODELO DE DADOS NO WORKBENCH
-
-
-Star Schema
-![Alt text](image-3.png)
 
 
 
