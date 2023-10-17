@@ -1,25 +1,25 @@
-#RESUMO BI
+# RESUMO BI
 
--O QUE É O BI?
+#### O QUE É O BI?
 -É um processo de coleta de dados e transformação em informação, e a informação em conhecimento, para que possa ser tomada uma decisão.
 
 -Temos a facilidade para gerar relatórios, gráficos, dashboards, etc.
 
--ETAPAS DO BI
+#### ETAPAS DO BI
 -Coleta de dados
 -Transformação de dados em informação
 -Transformação de informação em conhecimento
 -Tomada de decisão
 
--QUAL A FUNCIONALIDADE DO BI?
+#### QUAL A FUNCIONALIDADE DO BI?
 -O BI tem a funcionalidade de gerar relatórios, gráficos, dashboards, etc.
 
--MANEIRAS DE VISUALIZAR OS DADOS
+#### MANEIRAS DE VISUALIZAR OS DADOS
 -Tabela
 -Gráfico
 -Dashboard
 
------MANEIRAS DE COLETAR OS DADOS------------
+#### MANEIRAS DE COLETAR OS DADOS
 
 *Meios eletrônicos
 *Sistemas de informação
@@ -39,8 +39,8 @@
 -Arquivos de instalação
 -Papeis de trabalho
 
-(((((((((((((((((((CAI NA PROVA)))))))))))))))))))
--O QUE É OLAP?
+## (((((((((((((((((((CAI NA PROVA)))))))))))))))))))
+#### O QUE É OLAP?
 -OLAP (Online Analytical Processing) é uma técnica de análise usada em Business Intelligence (BI) para explorar e analisar dados multidimensionais de forma interativa, permitindo consultas complexas e insights.
 
     -O QUE É OLTP?
@@ -97,7 +97,7 @@
     -USERS
         -São os usuários que acessam os data marts para fazer análises e tomadas de decisões.
 
---------CAMADAS DO BI---------------
+#### --------CAMADAS DO BI---------------
 
 1)CAMADA DE FRONT-END
 -É a camada onde podemos ver nossos resultados
@@ -135,9 +135,9 @@ Pentaho pode ser implantado em contêineres Docker para facilitar a configuraç�
 Documentação é um processo de documentar o que foi feito no BI, para que possa ser usado como referência para futuros projetos.
 A documentação pode ser feita em forma de texto, vídeo, etc.
 
-(((((((((((((((CAI NA PROVA)))))))))))))))
+## (((((((((((((((CAI NA PROVA)))))))))))))))
 
----------MATRIZ DIMENSÃO X INDICADOR--------------
+#### ---------MATRIZ DIMENSÃO X INDICADOR--------------
 
 -Depois do levantamento das informações, é elaborado um documento contendo todas as informações necessárias que foram coletadas ou que sejam importantes para o fluxo
 
@@ -153,7 +153,7 @@ A documentação pode ser feita em forma de texto, vídeo, etc.
 -Como iremos analisar os dados
 -Exemplos de dimensões: Tempo, produto, região, etc.
 
--EXEMPLO DE MATRIZ DIMENSÃO X INDICADOR
+#### -EXEMPLO DE MATRIZ DIMENSÃO X INDICADOR
 
     -INDICADORES
         -Vendas
