@@ -251,6 +251,19 @@ A documentação pode ser feita em forma de texto, vídeo, etc.
 
 
 
+    ((((((((CAI NA PROVA))))))))
+
+    -DESENHAR MODELO STAR SCHEMA NO PAPEL
+     ------PASSO A PASSO PARA DESENHAR MODELO STAR SCHEMA NO PAPEL------
+        -1) Desenhar um quadrado no meio da folha
+        -2) Escrever o nome da tabela fato dentro do quadrado, e inserir os dados
+        -3) Desenhar vários quadrados em volta do quadrado central
+        -4) Escrever o nome das tabelas dimensões dentro dos quadrados
+        -5) Desenhar uma linha ligando o quadrado central com os quadrados das tabelas dimensões
+        -6) Escrever o nome dos atributos dentro dos quadrados das tabelas dimensões
+
+        O TIPO DE LIGAÇÃO ENTRE AS TABELAS DIMENSÕES E A TABELA FATO É 1 PARA N (LINHA RETA NÃO PONTILHADA)
+
         ((CAI NA PROVA))
         -EM QUAIS DOS CONCEITOS ABAIXO É MAIS ADEQUADO CATEGORIZAR UM DATA WAREHOUSE?
 
