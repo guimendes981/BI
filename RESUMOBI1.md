@@ -66,7 +66,7 @@
     -GRÁFICO
      -É uma forma de visualizar os dados em forma de gráfico, com barras, linhas, etc.
 
--DASHBOARD - É um painel de controle, onde podemos visualizar os dados de forma mais dinâmica, com gráficos, tabelas, etc.
+#### -DASHBOARD - É um painel de controle, onde podemos visualizar os dados de forma mais dinâmica, com gráficos, tabelas, etc.
 
     -DATA MINING
      -É uma forma de minerar os dados, para que possa ser feito uma análise e tomada de decisão.
@@ -78,7 +78,7 @@
         -É um banco de dados que armazena dados históricos de uma empresa, para que possa ser feito análises e tomadas de decisões.
         -No data warehouse é onde ligamos todos os dados através de importações de dados de várias fontes.
 
--ARQUITETURA DO DATAWAREHOUSE
+#### -ARQUITETURA DO DATAWAREHOUSE
 -DATA SOURCE
 -É uma fonte de dados, onde os dados são armazenados.
 -Exemplos de data source: Banco de dados, planilhas, arquivos de texto, arquivos XML, arquivos JSON, arquivos CSV, arquivos PDF, arquivos de imagem, arquivos de áudio, arquivos de vídeo, arquivos de log, arquivos de backup, arquivos de configuração, arquivos de instalação, papeis de trabalho, etc.
@@ -135,15 +135,15 @@ Pentaho pode ser implantado em contêineres Docker para facilitar a configuraç�
 Documentação é um processo de documentar o que foi feito no BI, para que possa ser usado como referência para futuros projetos.
 A documentação pode ser feita em forma de texto, vídeo, etc.
 
-## (((((((((((((((CAI NA PROVA)))))))))))))))
+## **(((((((((((((((CAI NA PROVA)))))))))))))))**
 
 #### ---------MATRIZ DIMENSÃO X INDICADOR--------------
 
 -Depois do levantamento das informações, é elaborado um documento contendo todas as informações necessárias que foram coletadas ou que sejam importantes para o fluxo
 
 -LINHAS E COLUNAS
--As linhas são os indicadores
--As colunas são as dimensões
+-As linhas são os **indicadores**
+-As colunas são as **dimensões**
 
 -INDICADORES
 -São os dados que serão analisados
@@ -187,7 +187,7 @@ A documentação pode ser feita em forma de texto, vídeo, etc.
 
 -Modelo de dados é uma representação de como os dados são armazenados e acessados.
 
--MODELO STAR SCHEMA
+#### -MODELO STAR SCHEMA
 -Modelo mais simples, tem forma de estrela
 -É composto por uma tabela fato e várias tabelas dimensões
 -TABELA FATO = TABELA CENTRAL
