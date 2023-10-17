@@ -235,3 +235,38 @@ A documentação pode ser feita em forma de texto, vídeo, etc.
     --EXPORTACAO DE MODELOS EM SQL 
     -Clicar em FILE > EXPORT > FORWARD ENGINEER > Selecionar onde quer salvar o arquivo > NEXT > NEXT > FINISH
     
+
+
+    -MODELO SNOWFLAKE SCHEMA
+        -Modelo mais complexo, tem forma de floco de neve
+        -É composto por uma tabela fato e várias tabelas dimensões
+        -TABELA FATO = TABELA CENTRAL
+        -TABELAS DIMENSÕES = TABELAS QUE ESTÃO EM VOLTA DA TABELA CENTRAL
+        -Vários níveis de relacionamento com as tabelas dimensões
+        -Indicadores são armazenados na tabela fato
+        -Dimensões são armazenadas nas tabelas dimensões
+        -Exemplo de modelo snowflake schema:
+            -TABELA FATO = VENDAS
+            -TABELAS DIMENSÕES = TEMPO, PRODUTO, REGIÃO, PAÍS, ESTADO, CIDADE, BAIRRO, RUA, NÚMERO, CEP, ETC.
+
+
+
+        ((CAI NA PROVA))
+        -EM QUAIS DOS CONCEITOS ABAIXO É MAIS ADEQUADO CATEGORIZAR UM DATA WAREHOUSE?
+
+        A) OLTP
+        B) OLAP
+        C) ETL
+        D) DATA MART
+        E) PDI
+
+        RESPOSTA: B) OLAP
+
+        OLAP = Online Analytical Processing, é uma técnica de análise usada em Business Intelligence (BI) para explorar e analisar dados multidimensionais de forma interativa, permitindo consultas complexas e insights.
+
+
+        NA PROVA VAI SER AVALIADO O PROCESSO DE CONSTRUÇÃO E MODELAGEM DE UMA ESTRELA DO DATA WAREHOUSE
+        -TEM QUE IMPLEMENTAR COM 5 10 LINHAS
+        -CONSTRUIR UM BI NO POWERBI
+        -CONSTRUIR UM MODELO DE DADOS NO WORKBENCH
+        
