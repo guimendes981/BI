@@ -276,10 +276,13 @@ A documentação pode ser feita em forma de texto, vídeo, etc.
         -CONSTRUIR UM MODELO DE DADOS NO WORKBENCH
 
 
+Tabela Indicador X Dimensão
+![Alt text](image-2.png)
+
+
 Star Schema
 ![Alt text](image-1.png)
 
 
-Tabela Indicador X Dimensão
-![Alt text](image-2.png)
+
 
