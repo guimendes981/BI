@@ -99,18 +99,18 @@
 
 #### --------CAMADAS DO BI---------------
 
-1)CAMADA DE FRONT-END
--É a camada onde podemos ver nossos resultados
--Aqui usamos o POWERBI
+    1)CAMADA DE FRONT-END
+    -É a camada onde podemos ver nossos resultados
+    -Aqui usamos o POWERBI
 
-2)CAMADA INTERMEDIA
--Essa camada irá fornecer mecanismos que são usados para acessar os dados
+    2)CAMADA INTERMEDIA
+    -Essa camada irá fornecer mecanismos que são usados para acessar os dados
 
-3)CAMADA INFERIOR
--É a camada onde fica toda a nossa estrutura e arquitetura contendo o servidor dos dados, banco de dados, etc.
+    3)CAMADA INFERIOR
+    -É a camada onde fica toda a nossa estrutura e arquitetura contendo o servidor dos dados, banco de dados, etc.
 
--VANTAGENS DO BI
--Facilidade para gerar relatórios, gráficos, dashboards, etc.
+    -VANTAGENS DO BI
+    -Facilidade para gerar relatórios, gráficos, dashboards, etc.
 
 -FERRAMENTAS QUE USAMOS NO BI
 
