@@ -278,3 +278,8 @@ A documentação pode ser feita em forma de texto, vídeo, etc.
 
 Star Schema
 ![Alt text](image-1.png)
+
+
+Tabela Indicador X Dimensão
+![Alt text](image-2.png)
+
