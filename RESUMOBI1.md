@@ -165,7 +165,10 @@ A documentação pode ser feita em forma de texto, vídeo, etc.
         -Produto
         -Região
 
+
 ![Alt text](image-2.png)
+
+
 
 -------ENTIDADES-------------
 
