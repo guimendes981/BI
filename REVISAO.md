@@ -78,6 +78,8 @@
 
 ## IMPORTANTE: A LIGAÇÃO É SEMPRE 1 PARA N, ONDE O N (MUITOS) SEMPRE FICA NA TABELA CENTRAL (FATO)
 
+![Alt text](image-8.png)
+
 ![Alt text](image-6.png)
 
 
