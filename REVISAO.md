@@ -40,7 +40,8 @@ Temos sempre que deixar os dados prontos para extrações simplificadas, para qu
     - A transformação de dados é o processo de transformar os dados extraídos em um padrão, para que possam ser carregados em um banco de dados.
 
 ##### O QUE É O CARREGAMENTO DE DADOS?
-    - O carregamento de dados é o processo de carregar os dados transformados em um banco de dados, onde serão armazenados e utilizados para a criação de relatórios e dashboards.
+
+- O carregamento de dados é o processo de carregar os dados transformados em um banco de dados, onde serão armazenados e utilizados para a criação de relatórios e dashboards.
 
 #### O QUE É SUMARIZAÇÃO?
     - Sumarização é o processo de sumarizar os dados, ou seja, de agrupar os dados de acordo com uma determinada característica, como por exemplo, somar o total de vendas por vendedor.
@@ -50,7 +51,7 @@ Temos sempre que deixar os dados prontos para extrações simplificadas, para qu
 
 
 ##### O QUE É A LIMPEZA DE DADOS?
-    - A limpeza de dados é o processo de limpar os dados, ou seja, de remover dados duplicados, dados inválidos, etc.
+   - A limpeza de dados é o processo de limpar os dados, ou seja, de remover dados duplicados, dados inválidos, etc.
 
 
 
