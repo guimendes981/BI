@@ -102,19 +102,19 @@
 
 #### ---------MATRIZ DIMENSÃO X INDICADOR--------------
 
--Depois do levantamento das informações, é elaborado um documento contendo todas as informações necessárias que foram coletadas ou que sejam importantes para o fluxo
+    -Depois do levantamento das informações, é elaborado um documento contendo todas as informações necessárias que foram coletadas ou que sejam importantes para o fluxo
 
--LINHAS E COLUNAS
--As linhas são os **indicadores**
--As colunas são as **dimensões**
+    -LINHAS E COLUNAS
+    -As linhas são os **indicadores**
+    -As colunas são as **dimensões**
 
--INDICADORES
--São os dados que serão analisados
--Exemplos de indicadores: Vendas, lucro, despesas, etc.
+    -INDICADORES
+    -São os dados que serão analisados
+    -Exemplos de indicadores: Vendas, lucro, despesas, etc.
 
--DIMENSÕES
--Como iremos analisar os dados
--Exemplos de dimensões: Tempo, produto, região, etc.
+    -DIMENSÕES
+    -Como iremos analisar os dados
+    -Exemplos de dimensões: Tempo, produto, região, etc.
 
 
 #### -EXEMPLO DE MATRIZ DIMENSÃO X INDICADOR
