@@ -166,3 +166,18 @@
     -O gráfico de dispersão é um gráfico muito utilizado para mostrar a relação entre os dados, como por exemplo, a relação entre o valor de vendas e o valor de custo.
 
 
+##### EXEMPLOS DE INDICADORES E SEUS GRAFICOS MAIS ADEQUADOS
+
+    -Vendas por vendedor: Gráfico de colunas
+    -Evolução das vendas por mês: Gráfico de linhas
+    -Proporção de vendas por vendedor: Gráfico de pizza
+    -Quantidade de vendas por vendedor: Gráfico de barras
+    -Relação entre o valor de vendas e o valor de custo: Gráfico de dispersão
+
+
+##### EXEMPLOS DE DIMENSÕES E SEUS GRAFICOS MAIS ADEQUADOS
+    
+        -Tempo: Gráfico de linhas
+        -Produto: Gráfico de colunas
+        -Região: Gráfico de barras
+
