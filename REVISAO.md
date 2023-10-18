@@ -192,3 +192,9 @@
 
 #### OLTP = Online Transaction Processing, é um sistema que trata de transações em tempo real em bancos de dados, otimizado para operações diárias de negócios, como inserções e atualizações de dados.
 
+
+
+##### OLTP X OLAP
+
+    -A diferença entre OLTP e OLAP é que OLTP é um sistema que trata de transações em tempo real em bancos de dados, otimizado para operações diárias de negócios, como inserções e atualizações de dados, enquanto OLAP é uma técnica de análise usada em Business Intelligence (BI) para explorar e analisar dados multidimensionais de forma interativa, permitindo consultas complexas e insights.
+
