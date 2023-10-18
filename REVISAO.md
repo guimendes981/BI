@@ -76,7 +76,7 @@
 
     - O Star Schema é o modelo mais utilizado para a criação de relatórios e dashboards, pois é um modelo simples e eficiente.
 
-##### IMPORTANTE: A LIGAÇÃO É SEMPRE 1 PARA N, ONDE O N (MUITOS) SEMPRE FICA NA TABELA CENTRAL (FATO)
+## IMPORTANTE: A LIGAÇÃO É SEMPRE 1 PARA N, ONDE O N (MUITOS) SEMPRE FICA NA TABELA CENTRAL (FATO)
 
 ![Alt text](image-6.png)
 
