@@ -198,3 +198,9 @@
 
     -A diferença entre OLTP e OLAP é que OLTP é um sistema que trata de transações em tempo real em bancos de dados, otimizado para operações diárias de negócios, como inserções e atualizações de dados, enquanto OLAP é uma técnica de análise usada em Business Intelligence (BI) para explorar e analisar dados multidimensionais de forma interativa, permitindo consultas complexas e insights.
 
+
+##### EXEMPLOS DE USO DE OLAP E OLTP
+
+    -OLTP: Sistema de vendas de uma loja
+    -OLAP: Relatório de vendas de uma loja
+
