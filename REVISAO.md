@@ -45,3 +45,12 @@ Temos sempre que deixar os dados prontos para extrações simplificadas, para qu
 #### O QUE É SUMARIZAÇÃO?
     - Sumarização é o processo de sumarizar os dados, ou seja, de agrupar os dados de acordo com uma determinada característica, como por exemplo, somar o total de vendas por vendedor.
 
+##### O QUE É TRADUÇÃO DE DADOS?
+    - Tradução de dados é o processo de traduzir os dados, ou seja, de alterar o idioma dos dados, como por exemplo, alterar o idioma de inglês para português.
+
+
+##### O QUE É A LIMPEZA DE DADOS?
+    - A limpeza de dados é o processo de limpar os dados, ou seja, de remover dados duplicados, dados inválidos, etc.
+
+
+
