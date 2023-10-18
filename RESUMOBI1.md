@@ -280,4 +280,13 @@ Star schema:
         -CONSTRUIR UM MODELO DE DADOS NO WORKBENCH
 
 
+## OLTP E OLAP   
+
+#### OLAP = Online Analytical Processing, é uma técnica de análise usada em Business Intelligence (BI) para explorar e analisar dados multidimensionais de forma interativa, permitindo consultas complexas e insights.
+
+
+#### OLTP = Online Transaction Processing, é um sistema que trata de transações em tempo real em bancos de dados, otimizado para operações diárias de negócios, como inserções e atualizações de dados.
+
+
+
 
