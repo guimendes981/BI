@@ -128,3 +128,6 @@
         -Tempo
         -Produto
         -Região
+
+
+![Alt text](image-9.png)
