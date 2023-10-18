@@ -54,4 +54,9 @@ Temos sempre que deixar os dados prontos para extrações simplificadas, para qu
    - A limpeza de dados é o processo de limpar os dados, ou seja, de remover dados duplicados, dados inválidos, etc.
 
 
+##### O QUE É CARDINALIDADE DE DADOS?
+    - Cardinalidade de dados é o processo de definir a cardinalidade dos dados, ou seja, de definir se os dados são únicos ou não, como por exemplo, definir se o CPF é único ou não.
+
+
+
 
