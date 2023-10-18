@@ -94,3 +94,6 @@
     - O Snow Flake é um modelo pouco utilizado para a criação de relatórios e dashboards, pois é um modelo complexo e pouco eficiente.
 
 ![Alt text](image-7.png)
+
+
+
