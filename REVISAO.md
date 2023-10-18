@@ -58,5 +58,8 @@ Temos sempre que deixar os dados prontos para extrações simplificadas, para qu
 - Cardinalidade de dados é o processo de definir a cardinalidade dos dados, ou seja, de definir se os dados são únicos ou não, como por exemplo, definir se o CPF é único ou não.
 
 
+### CARREGAMENTO
+-Neste momento os dados estão em um banco central, que é o DATA WAREHOUSE, e o Power BI se conecta ao DATA WAREHOUSE para criar os relatórios e dashboards.
+
 
 
