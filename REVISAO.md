@@ -181,3 +181,8 @@
         -Produto: Gráfico de colunas
         -Região: Gráfico de barras
 
+
+### LEMBRAR DE DAR NOMES AOS GRAFICOS, LINHAS, COLUNAS E LEGENDAS
+
+
+
