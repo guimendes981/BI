@@ -131,3 +131,38 @@
 
 
 ![Alt text](image-9.png)
+
+
+## GRAFICOS DO POWERBI
+
+
+##### GRAFICO DE COLUNAS
+    -O gráfico de colunas é um gráfico que mostra os dados em colunas, onde a altura das colunas representa a quantidade de dados.
+
+    -O gráfico de colunas é um gráfico muito utilizado para mostrar a quantidade de dados, como por exemplo, a quantidade de vendas por vendedor.
+
+
+##### GRAFICO DE LINHAS
+    -O gráfico de linhas é um gráfico que mostra os dados em linhas, onde a altura das linhas representa a quantidade de dados.
+
+    -O gráfico de linhas é um gráfico muito utilizado para mostrar a evolução dos dados, como por exemplo, a evolução das vendas por mês.
+
+
+##### GRAFICO DE PIZZA
+    -O gráfico de pizza é um gráfico que mostra os dados em fatias, onde o tamanho das fatias representa a quantidade de dados.
+
+    -O gráfico de pizza é um gráfico muito utilizado para mostrar a proporção dos dados, como por exemplo, a proporção de vendas por vendedor.
+
+
+##### GRAFICO DE BARRAS
+    -O gráfico de barras é um gráfico que mostra os dados em barras, onde o comprimento das barras representa a quantidade de dados.
+
+    -O gráfico de barras é um gráfico muito utilizado para mostrar a quantidade de dados, como por exemplo, a quantidade de vendas por vendedor.
+
+
+##### GRAFICO DE DISPERSÃO
+    -O gráfico de dispersão é um gráfico que mostra os dados em pontos, onde a posição dos pontos representa a quantidade de dados.
+
+    -O gráfico de dispersão é um gráfico muito utilizado para mostrar a relação entre os dados, como por exemplo, a relação entre o valor de vendas e o valor de custo.
+
+
